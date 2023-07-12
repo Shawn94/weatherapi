@@ -4,7 +4,7 @@ This API work only in Korea, as it is provided by Korean Government for local us
 
 ## Usage
 
-1. Get your own API key on [**data.go.kr**](www.data.go.kr) <br>
+1. Get your own API key on [**data.go.kr**](https://www.data.go.kr) <br>
 	- The api is **기상청_지상(종관, ASOS) 시간자료** <br>
 	- Basically, this API returns weather data based on request parameters
 2. Response data is available only for cities, provinces in <u> **citycodes.csv** </u> locations
