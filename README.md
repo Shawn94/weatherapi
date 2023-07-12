@@ -1,5 +1,5 @@
 ## WeatherAPI 공공데이터포털
-Weather API usage is based on GPS data and a given date period. This is for the calculation of Road Surface temperature, the number of Dry/Wet days.
+Weather API usage is based on GPS data and a given time period. This is for the calculation of Road Surface temperature, the number of Dry/Wet days.
 This API work only in Korea, as it is provided by Korean Government for local usage.
 
 ## Usage
