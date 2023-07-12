@@ -55,8 +55,6 @@ def getData():
     vehicle_group = dataset.groupby('Vehicle')
     for vehicle, veh_group in vehicle_group:
         df_list = []
-        if vehicle not in ['N144','N145','N146','N147']:
-            continue
         for idx, row in veh_group.reset_index(drop=True).iterrows():
 
             path2file = os.path.join(row.root, row.file)
